@@ -1,0 +1,8 @@
+file_format: "1"
+id: mechboards_micropad
+name: Mechboards Micropad
+type: shield
+url: https://mechboards.co.uk/products/mbuk-macro-pad-kit
+requires: [pro_micro]
+features:
+  - keys
